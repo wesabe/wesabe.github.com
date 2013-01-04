@@ -1,4 +1,0 @@
-wesabe
-======
-
-New landing page
